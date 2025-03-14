@@ -1,5 +1,4 @@
-# ECO-HUB
-#  ECO-HUB  
+# ECO-HUB  
 
  Sustainable Solutions for a Greener Future  
 
@@ -12,7 +11,7 @@ ECO-HUB is a platform promoting sustainability through eco-friendly resources, t
  Educational content  
 
 Installation  
-git clone https://github.com/yourusername/ECO-HUB.git  
+git clone https://github.com/Sudheshna193/ECO-HUB.git  
 cd ECO-HUB  
 npm install  # or pip install -r requirements.txt  
 npm start  # Run the app  
